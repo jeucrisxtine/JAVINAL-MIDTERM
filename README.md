@@ -58,7 +58,7 @@ I've worked with the following tools and languages in academic and self-directed
 | Matcha Feels | HTML, CSS, JavaScript | Web / Ordering System | [View Repository](https://github.com/jeucrisxtine/matcha-menu) |
 | Enrollment System | C# | Windows Forms Desktop App | [View Repository](https://github.com/jeucrisxtine/WindowsFormsApplication9) |
 | Game Console POS — Design Infographics | Canva, UI/UX | UI/UX Design | [View on Canva](https://canva.link/45q7l2dh78cw7pv) |
-| Online Game Console POS System | Java, Java Swing | Desktop POS App | `[ADD REPOSITORY]` |
+| Online Game Console POS System | Java, Java Swing | Desktop POS App | [POS documentation](https://web.facebook.com/share/v/1PnDxDKKpk/) |
 | Online Calculator System | HTML, CSS, JavaScript | Front-End Web App | [View Repository](https://github.com/jeucrisxtine/calculater) |
 
 ---
@@ -77,7 +77,7 @@ A web-based ordering system for a matcha-themed dessert and beverage shop. Users
 
 `HTML` `CSS` `JavaScript`
 
-[View Repository](https://github.com/jeucrisxtine/matcha-menu) · Demo `[ADD DEMO]` · Screenshots `[ADD SCREENSHOTS]`
+[View Repository](https://github.com/jeucrisxtine/matcha-menu)
 
 ---
 
@@ -91,7 +91,7 @@ An academic C# Windows Forms application developed in Visual Studio 2010, coveri
 
 `C#` `Windows Forms` `Visual Studio 2010`
 
-[View Repository](https://github.com/jeucrisxtine/WindowsFormsApplication9) · Screenshots `[ADD SCREENSHOTS]`
+[View Repository](https://github.com/jeucrisxtine/WindowsFormsApplication9)
 
 ### Online Game Console POS System — Java Swing
 
@@ -106,7 +106,7 @@ A desktop point-of-sale application for browsing and purchasing gaming consoles 
 
 `Java` `Java Swing` `NetBeans IDE`
 
-Repository `[ADD REPOSITORY]` · [POS System documentation](https://web.facebook.com/share/v/1PnDxDKKpk/) · Screenshots `[ADD SCREENSHOTS]`
+[POS System documentation](https://web.facebook.com/share/v/1PnDxDKKpk/)
 
 ---
 
@@ -120,7 +120,7 @@ Design infographics for the game console store POS system, created in Canva. The
 
 `Canva` `UI/UX Design`
 
-[View on Canva](https://canva.link/45q7l2dh78cw7pv) · Screenshots `[ADD SCREENSHOTS]`
+[View on Canva](https://canva.link/45q7l2dh78cw7pv)
 
 ---
 
@@ -134,7 +134,7 @@ A browser-based calculator with a pink-themed button layout. Supports addition, 
 
 `HTML` `CSS` `JavaScript`
 
-[View Repository](https://github.com/jeucrisxtine/calculater) · Screenshots `[ADD SCREENSHOTS]` · Demo `[ADD DEMO]`
+[View Repository](https://github.com/jeucrisxtine/calculater)
 
 ---
 
@@ -164,5 +164,3 @@ Software development, for me, is a cycle: learn something, build with it, get it
 [![Canva](https://img.shields.io/badge/Canva-Designs-ff5c8d?style=flat-square&logo=canva&logoColor=white)](https://canva.link/45q7l2dh78cw7pv)
 
 **Email:** [mary_javinal@sjp2cd.edu.ph](mailto:mary_javinal@sjp2cd.edu.ph)
-
-*Personal portfolio site: `[ADD LATER]`*
